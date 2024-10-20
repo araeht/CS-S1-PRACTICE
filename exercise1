@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A blog post</title>
+</head>
+<body>
+    <h1> Introduction to nothing !</h1>
+    <p> yap yap yap yap yap !</p>
+    <p> more yap more yap more yap more yap</p>
+
+    <p>Why?</p>    
+    <p> <b> Blah blah blah blah blah .</b> random gibberish random gibberish randon gibberish.</p>
+
+    <p> I like listening to <a href="https://en.wikipedia.org/wiki/TV_Girl">music</a> and watching <a href="https://www.youtube.com/watch?v=qMwRRV_mFQE&ab_channel=TVGirl-Topic">videos.</a></p>
+
+    <h1> Conclusion</h1>
+    <p> Still have questions? Please <a href="blahblahblah@gmail.com">Contact Me</a> for any questions.</p>
+</body>
+</html>
